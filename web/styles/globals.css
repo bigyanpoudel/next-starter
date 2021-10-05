@@ -1,0 +1,52 @@
+@import url("./reactTostify.module.css");
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+::root{
+  --font-size: 1.4rem;
+  --font-size1: 1.1rem;
+  --font-size2: 1rem;
+  --font-size3: 1.8rem;
+  --letter-spacing1: 1px;
+  --letter-spacing2: 2px;
+  --primary-color-3: #818db9;
+  --color-darker: #077076;
+  --color-dark: #078188;
+  --color-light: #08979f;
+  --color-lighter: #09b5bf;
+  --color: #0bd3df;
+  --size01: 0.1rem;
+  --size02: 0.2rem;
+  --size03: 0.3rem;
+  --size04: 0.4rem;
+  --size05: 0.5rem;
+  --size06: 0.6rem;
+  --size07: 0.7rem;
+  --size08: 0.8rem;
+  --size09: 0.9rem;
+  --size1: 1rem;
+  --size11: 1.1rem;
+  --size12: 1.2rem;
+  --size13: 1.3rem;
+  --size14: 1.4rem;
+  --size15: 1.5rem;
+  --size18: 1.8rem;
+  --size2: 2rem;
+  --size23: 2.3rem;
+}
